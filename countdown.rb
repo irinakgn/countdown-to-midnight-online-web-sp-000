@@ -1,11 +1,9 @@
 #write your code here
 
 def countdown(m)
-  c = 0
-  res = ''
-  while c < 10
-    c += 1
-    res +=  "#{c} SECOND(S)!\n"
-    end
-  res
+  x = 1
+while x < 10
+  puts "#{x} is less than 10"
+  x += 1
+end
 end
