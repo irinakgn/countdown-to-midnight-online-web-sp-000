@@ -7,4 +7,5 @@ def countdown(m)
     c += 1
     res +=  "#{c} SECOND(S)!"
     end
+  res
 end
