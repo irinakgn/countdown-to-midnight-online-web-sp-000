@@ -4,6 +4,6 @@ def countdown(m)
   c = 0
   while c < 10
   c += 1
-  puts "10 SECOND(S)!"
+  puts "${c} SECOND(S)!"
 end
 end
