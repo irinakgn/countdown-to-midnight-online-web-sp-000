@@ -5,7 +5,7 @@ def countdown(m)
   res = ''
   while c < 10
     c += 1
-    res +=  "#{c} SECOND(S)!"
+    res +=  "#{c} SECOND(S)!\n"
     end
   res
 end
